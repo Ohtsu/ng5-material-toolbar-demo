@@ -1,6 +1,6 @@
 {
   "name": "ng5-material-toolbar-demo",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -16,7 +16,6 @@
     "start:de": "ng serve --aot --i18nFile=src/locale/messages.de.xlf --i18nFormat=xlf --locale=de",
     "start:it": "ng serve --aot --i18nFile=src/locale/messages.it.xlf --i18nFormat=xlf --locale=it",
     "start:es": "ng serve --aot --i18nFile=src/locale/messages.es.xlf --i18nFormat=xlf --locale=es"
-
   },
   "private": true,
   "dependencies": {
