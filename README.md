@@ -1,12 +1,12 @@
 
-# _ng5-material-toolbar-demo_ Angular5 initial project installed with libraries which are needed for Angular Material
+# _ng5-material-toolbar-demo_ Angular5 sample project for Angular Material Toolbar
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 
-_ng5-material-toolbar-demo_ is an Angular5  demo project for programmers who want to use Angular Material Checkbox.
+_ng5-material-toolbar-demo_ is an Angular5 sample project for programmers who want to use Angular Material Toolbar.
 
 _Video Explanation_
-<https://youtu.be/zgLgallOcCQ>
+<https://youtu.be/mDjibEEcVXI>
 
 _Full Source Code_
 <https://github.com/Ohtsu/ng5-material-toolbar-demo>
@@ -29,7 +29,17 @@ The following "Step" number is based on the page.
 
    - @angular/animations (including the modification of 'src/app/app.module.ts' file) (Step2)
 
-   - Add MatCheckboxModule,MatCardModule, MatRadioModule (step3)
+   - Add following modules  (step3)
+        - MatButtonModule,
+        - MatCheckboxModule,
+        - MatCardModule,
+        - MatRadioModule,
+        - MatDialogModule,
+        - MatFormFieldModule,
+        - MatInputModule,
+        - MatToolbarModule,
+        - MatIconModule,
+        - MatMenuModule
 
    - Add default theme(indigo.pink.css) to styles.css file (step4)
 
@@ -87,15 +97,15 @@ $ ng serve
 
   - ***default Page*** 
 
-  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-dialog-01.png" width= "640" >
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-toolbar-01.png" width= "640" >
 
-  - ***Dialog*** 
+  - ***English Page*** 
 
-  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-dialog-11.png" width= "640" >
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-toolbar-11.png" width= "640" >
 
-  - ***Return Values*** 
+  - ***Japanese Page*** 
 
-  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-dialog-21.png" width= "640" >
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-toolbar-21.png" width= "640" >
 
 #### Stop Local Server
 
