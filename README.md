@@ -101,9 +101,21 @@ $ ng serve
 
   - ***English Page*** 
 
+If you want to check English page, start local server as follows, 
+
+```bash
+$ npm run start:en
+```
+
   <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-toolbar-11.png" width= "640" >
 
   - ***Japanese Page*** 
+
+If you want to check Japanese page, start local server as follows, 
+
+```bash
+$ npm run start:ja
+```
 
   <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-toolbar-21.png" width= "640" >
 
