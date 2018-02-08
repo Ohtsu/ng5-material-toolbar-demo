@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="siteName" datatype="html">
+        <source>SiteName</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <target>DigiPub</target>
+
+      </trans-unit>
+      <trans-unit id="menu01" datatype="html">
+        <source>Menu01</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+        <target>Anmeldung</target>
+      </trans-unit>
+      <trans-unit id="subMenu01" datatype="html">
+        <source>SubMenu01</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+        <target>Über</target>
+      </trans-unit>
+      <trans-unit id="subMenu02" datatype="html">
+        <source>SubMenu02</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+        <target>Bedienung</target>
+      </trans-unit>
+      <trans-unit id="subMenu03" datatype="html">
+        <source>SubMenu03</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+        <target>Kontakt</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
