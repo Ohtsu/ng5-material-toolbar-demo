@@ -145,8 +145,8 @@ Input **Ctrl+C** and **y+Return** to stop the local server.
 - "Custom Library for Agular5",
 <https://www.udemy.com/draft/1461368/>
 
-- "Custom Library for Agular5",
-<https://www.udemy.com/draft/1461360/>
+- "Angular5用独自ライブラリの作成",
+<https://www.udemy.com/draft/1450138/>
 
 ## Change Log
 
