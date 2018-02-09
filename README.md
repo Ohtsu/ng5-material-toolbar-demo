@@ -6,9 +6,13 @@
 _ng5-material-toolbar-demo_ is an Angular5 sample project for programmers who want to use Angular Material Toolbar.
 
 _Video Explanation_
+
 (Engilsh)
+
 <https://youtu.be/mDjibEEcVXI>
+
 (Japanese)
+
 <https://youtu.be/MDOxe5G6zqI>
 
 _Full Source Code_
